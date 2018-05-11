@@ -1,38 +1,42 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+     <link rel = "stylesheet" href = "style.css">
+     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <title>Opis</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1> Strona opisowa </h1>
+      <table>
+        <tr>
+          <td>
+            <ul>
+              <h2>Sład zespołu</h2>
+              <li>Bartosz Turek</li>
+              <li>Konrad Małocha</li>
+              <li>Dominik Wrona</li>
+              <li>Paulina Wujkowska</li>
+            </ul>
+          </td>
+          <td>
+            <h2 style="padding-left: 10px">Opis projektu</h2>
+            <p style="padding-left: 10px">
+			Naszym pomysłem na projekt jest aplikacja, która służyłaby użytkownikowi do przeglądania seriali. Użytkownik w prosty sposób może uzyskać informacje o danym tytule, przeglądać seriale według określonego gatunku czy zobaczyć 20 aktualnie najpopularniejszych seriali. Dodatkowo użytkownik ma możliwość dodania serialu do oglądanych. Na podstawie wybranego serialu aplikacja zaproponuje również inne, powiązane seriale. Aplikacja współpracuje z oficjalnym api serwisu TMDb (The Movie Database). Całość została wykonana przy użyciu gotowych rozwiązań takich jak: framework ReactJS, Firebase Authentication oraz Frebase RealTime DataBase. Celem projektu jest nie tylko stworzenie gotowej aplikacji, lecz przede wszystkim doskonalenie umiejętności miękkich jak praca w zespole, wykorzystywanie dostępnych narzędzi do lepszego zarządzania życiem codziennym projektu oraz możliwość stworzenia czegoś, czym moglibyśmy się pochwalić w przyszłości w naszym CV.
+			</p>
+          </td>
 
-You can use the [editor on GitHub](https://github.com/brq0/brq0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+         
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-dd
+          </ul>
+        </td>
+      </tr>
+    </table>
+	
+	<img src="YouSeries.jpg" alt="" height="1028" width="1180">
 
-### Markdown
+    </div>
+  </body>
+</html>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brq0/brq0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
